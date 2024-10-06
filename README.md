@@ -1,6 +1,6 @@
 # BIL333-odev1-hasantatar-y23lbim801
-2024-2025 Güz Dönemi/BIL333/1/Bilgisayar Grafikleri
-Ödev 1: DDA ve Bresenham algoritmaları ile çizgi ve şekil çizimi
+# 2024-2025 Güz Dönemi/BIL333/1/Bilgisayar Grafikleri
+# Ödev 1: DDA ve Bresenham algoritmaları ile çizgi ve şekil çizimi
 Tamamlama Gereklilikleri
 Açıldı: 6 Ekim 2024, Pazar, 00:00
 Teslim tarihi: 7 Ekim 2024, Pazartesi, 12:00
